@@ -1,2 +1,2 @@
 # mykeeb
-My first keyboard under the keeb program from hackclub
+A simple macroboard that encorporates media controls featuring a mini oled display
